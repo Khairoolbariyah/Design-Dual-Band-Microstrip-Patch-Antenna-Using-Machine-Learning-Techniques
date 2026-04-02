@@ -3,7 +3,7 @@
 This project focuses on the **Design of a Dual-Band Microstrip Patch Antenna** for wireless communication applications, optimized using **Machine Learning** techniques.
 
 ## 📡 Project Overview
-The main goal was to automate the antenna design process. Instead of traditional trial-and-error in CST Studio Suite, I implemented ML models to predict antenna parameters accurately and efficiently.
+The main goal was to automate the antenna design process. Instead of traditional trial-and-error in CST Studio Suite, I implemented ML models to predict antenna parameters accurately and efficiently. This ML is only function for dual vertical rectangular slot on rectangular microstrip patch with feedline.
 
 ## 🤖 Machine Learning Implementation
 I compared two main architectures to optimize the antenna's dimensions:
